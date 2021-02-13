@@ -4,7 +4,6 @@ This program applies simple mutations to base64 encoded strings for obfuscation 
 
 For more info read [this writeup](https://n0.lol/encmute/)!
 
-[Duck Duck Go](https://duckduckgo.com)
 ## Usage ##
 
 Generate a mutation from a string
